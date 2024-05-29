@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279999443188",
+    "project_id": "q-company",
+    "storage_bucket": "q-company.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279999443188:android:7c3a1232bbaff6e93a6ea1",
+        "android_client_info": {
+          "package_name": "com.q.qapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASWMpTtCyxlkT0JYGMICALKkQbWlTyvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
